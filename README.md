@@ -1,2 +1,0 @@
-# NetricheAndProto
-blc de NAP
